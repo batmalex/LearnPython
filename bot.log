@@ -1,0 +1,73 @@
+root - INFO - neg
+root - INFO - eewr
+root - INFO - wer
+root - INFO - trrr
+root - INFO - ,jn
+root - INFO - косо
+root - INFO - Bot started
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+root - INFO - привет
+root - INFO - Та
+root - INFO - тратра
+root - INFO - 5*6
+root - INFO - Bot started
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Users\Cat&Fish\AppData\Local\Programs\Python\Python35\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Users\Cat&Fish\AppData\Local\Programs\Python\Python35\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "C:/github/batmalex/bot.py", line 21, in calc_to
+    calc_res = int(calc_exp)
+ValueError: invalid literal for int() with base 10: '/calc'
+root - INFO - 25*25
+root - INFO - Bot started
+root - INFO - Bot started
+root - INFO - Bot started
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Users\Cat&Fish\AppData\Local\Programs\Python\Python35\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Users\Cat&Fish\AppData\Local\Programs\Python\Python35\lib\site-packages\telegram\ext\messagehandler.py", line 169, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "C:/github/batmalex/bot.py", line 21, in talk_to_me
+    reply = get_answer(user_text, answers)
+NameError: name 'answers' is not defined
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Users\Cat&Fish\AppData\Local\Programs\Python\Python35\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Users\Cat&Fish\AppData\Local\Programs\Python\Python35\lib\site-packages\telegram\ext\messagehandler.py", line 169, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "C:/github/batmalex/bot.py", line 21, in talk_to_me
+    reply = get_answer(user_text, answers)
+NameError: name 'answers' is not defined
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Users\Cat&Fish\AppData\Local\Programs\Python\Python35\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Users\Cat&Fish\AppData\Local\Programs\Python\Python35\lib\site-packages\telegram\ext\messagehandler.py", line 169, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "C:/github/batmalex/bot.py", line 21, in talk_to_me
+    reply = get_answer(user_text, answers)
+NameError: name 'answers' is not defined
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Users\Cat&Fish\AppData\Local\Programs\Python\Python35\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Users\Cat&Fish\AppData\Local\Programs\Python\Python35\lib\site-packages\telegram\ext\messagehandler.py", line 169, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "C:/github/batmalex/bot.py", line 21, in talk_to_me
+    reply = get_answer(user_text, answers)
+NameError: name 'answers' is not defined
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Users\Cat&Fish\AppData\Local\Programs\Python\Python35\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Users\Cat&Fish\AppData\Local\Programs\Python\Python35\lib\site-packages\telegram\ext\messagehandler.py", line 169, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "C:/github/batmalex/bot.py", line 21, in talk_to_me
+    reply = get_answer(user_text, answers)
+NameError: name 'answers' is not defined
+root - INFO - Bot started
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
