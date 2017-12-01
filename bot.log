@@ -71,3 +71,97 @@ Traceback (most recent call last):
 NameError: name 'answers' is not defined
 root - INFO - Bot started
 telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+root - INFO - Bot started
+root - INFO - Bot started
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+root - INFO - Bot started
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+root - INFO - Bot started
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+root - INFO - Bot started
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+root - INFO - Bot started
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+root - INFO - Bot started
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+root - INFO - Bot started
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+root - INFO - Bot started
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+root - INFO - Bot started
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+root - INFO - Bot started
+root - INFO - Bot started
+root - INFO - Bot started
+root - INFO - Bot started
+root - INFO - Bot started
+root - INFO - Bot started
+root - INFO - Bot started
+root - INFO - Bot started
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+root - INFO - Bot started
+root - INFO - Bot started
+root - INFO - Bot started
+root - INFO - Bot started
+root - INFO - Bot started
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Users\Cat&Fish\env\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Users\Cat&Fish\env\lib\site-packages\telegram\ext\messagehandler.py", line 169, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+TypeError: talk_to_me() missing 1 required positional argument: 'questioon'
+root - INFO - Bot started
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Users\Cat&Fish\env\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Users\Cat&Fish\env\lib\site-packages\telegram\ext\messagehandler.py", line 169, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+TypeError: talk_to_me() missing 1 required positional argument: 'questioon'
