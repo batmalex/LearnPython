@@ -84,7 +84,7 @@ def city_game():
             letter = bot_city(letter)
 
 
-file = 'C:/Projects/cities.txt'
+file = './cities.txt'
 cities = {}
 city_game()
 # cities = {'а': {'Ашхабад': 0, 'Алматыб': 0, 'Ангарска': 0}, 'б': {'Барнаула': 0, 'Братск': 0}, 'д': {'Дублин': 0}, 'м': {'Мокровка': 0}, 'н': {'Новосиб': 0}, 's': {}}
